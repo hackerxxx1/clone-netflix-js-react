@@ -77,10 +77,12 @@
         <div class="wrapper">
             <div align="top" class="typing-demo">
 			<h3>descrição</h3>
+			<ul>
               <li>esse clone foi feito a partir do the movie db</li>
               <li>esse clone foi baseado em uma tradução de um projeto typescript</li>
               <li>clone realizado apenas para utilizar tipos diferentes de componentes</li>
 			  <li></li>
+			</ul>  
               <h3>requisitos</h3>
              <ul>
               <li>instalar nodejs </li>
